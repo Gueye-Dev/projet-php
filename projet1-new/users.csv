@@ -1,0 +1,6 @@
+matricule,email,nom,prenom,statut,etat,mot_de_passe
+-,admin1@example.com,Admin,John,admin,1,$2y$10$GIt6vFthY1tb7v0n.GV.TOkSmnUEy772PCdFq3cknF2NsuBj9L0YO
+-,admin2@example.com,Admin,Jane,admin,1,$2y$10$.lsqRNKOcG9Vlob8WyzTSuByUgaZ5Qj0x5fuoE.f/O6sKsDK8FPCq
+ETU001,etu001@example.com,Dupont,Jean,etudiant,1,$2y$10$HZfJLmVmR6xg9qXE1TvuPOStcdriP/cEhRpXBrdpkUmthlaixVSaS
+ETU002,etu002@example.com,Durand,Pierre,etudiant,1,$2y$10$qNUCXsVjgalWD0H4EfpJs.RjKUr6j74vYRg6zgs8Z3JjPCgAlDuTK
+ETU003,etu003@example.com,Martin,Paul,etudiant,1,$2y$10$6Qmfqz2Yg8bnis3LJQuEoeHg7AIvE9kTiBrmX0/fmusCFHPPeU4Zy
